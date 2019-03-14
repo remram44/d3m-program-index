@@ -80,11 +80,11 @@ ISI's template-based automated machine learning system.
 
 SRI's fork of the TPOT system which has been made compliant with D3M primitives.
 
-[TAMU System](https://gitlab.com/TAMU_D3M/Winter_2018_tamuta2)
+[TAMU System](https://gitlab.com/TAMU_D3M/Winter_2018_tamuta2) (404!!!)
 
 TAMU's automated machine learning system.
 
-[UC Berkeley Aika](https://gitlab.com/aika/aika)
+[UC Berkeley Aika](https://gitlab.com/aika/aika) (empty!!!)
 
 A framework to enable reproducible AutoML research. (TBD)
 
@@ -92,7 +92,7 @@ A framework to enable reproducible AutoML research. (TBD)
 
 CMU's TA2 system for DARPA D3M program
 
-[Brown/MIT TA2 System](https://gitlab.datadrivendiscovery.org/zshang/alpine-meadow)
+[Brown/MIT TA2 System](https://gitlab.datadrivendiscovery.org/zshang/alpine-meadow) (empty!!!)
 
 Alpine Meadow: Brown/MIT TA2 System (TBU)
 
@@ -100,7 +100,7 @@ Alpine Meadow: Brown/MIT TA2 System (TBU)
 
 NYU's AlphaAutoML and TA2 Systems
 
-[Stanford TA2 System](https://github.com/HazyResearch/d3m-model-search)
+[Stanford TA2 System](https://github.com/HazyResearch/d3m-model-search) (404!!!)
 
 Stanford TA2 system for DARPA D3M Program
 
@@ -110,7 +110,7 @@ Stanford TA2 system for DARPA D3M Program
 
 Source code of branch "winter-19-demo"
 
-[Brown/MIT TA3 System](https://gitlab.datadrivendiscovery.org/ezgraggen/vizdom)
+[Brown/MIT TA3 System](https://gitlab.datadrivendiscovery.org/ezgraggen/vizdom) (empty!!!)
 
 Vizdom: Brown/MIT TA3 System (TBU)
 
